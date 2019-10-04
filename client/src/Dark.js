@@ -9,7 +9,7 @@ const Dark = () => {
   };
   return (
     <nav className="navbar">
-      <h1>PLAYERS</h1>
+      <h1 id= 'tester'>PLAYERS</h1>
       <div onClick={toggleMode} className="dark-mode__toggle">
         <div className={darkMode ? 'toggle toggled' : 'toggle'}/>
       </div>
