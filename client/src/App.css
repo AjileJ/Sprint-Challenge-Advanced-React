@@ -39,7 +39,7 @@
   height: 70px;
   justify-content: space-between;
   padding: 0 3%;
-  width: 100%;
+  width: 9%;
   -webkit-box-shadow: 0px 2px 15px -8px rgba(0, 0, 0, 0.42);
   -moz-box-shadow: 0px 2px 15px -8px rgba(0, 0, 0, 0.42);
   box-shadow: 0px 2px 15px -8px rgba(0, 0, 0, 0.42);
@@ -97,6 +97,10 @@
   align-items: center;
   background: rgba(128, 128, 128, 0.367);
   border-radius: 5px;
+}
+
+html {
+  width: 100%;
 }
 
 
